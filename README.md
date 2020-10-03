@@ -1,5 +1,5 @@
 ## ⚡ WELCOME TO THE WORLD OF TUTORIALS
-<p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/49580304/94988431-f48ef000-0521-11eb-9fc5-101d03556ea2.jpg" alt="Bt">
+<p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/49580304/94988522-b7772d80-0522-11eb-87f0-e8017298e8d2.jpg" alt="Bt">
   `
 ## <p align="center"> In Partnership With
   
