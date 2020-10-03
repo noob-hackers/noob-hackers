@@ -1,5 +1,5 @@
 ## Hey, Geek 😎
-<p align="center"><a href="https://github.com/noob-hackershttps://github.com/noob-hackershttps://github.com/noob-hackers"><img src="https://user-images.githubusercontent.com/49580304/94988522-b7772d80-0522-11eb-87f0-e8017298e8d2.jpg" alt="Bt">
+<p align="center"><a href="https://github.com/noob-hackers"><img src="https://user-images.githubusercontent.com/49580304/94988522-b7772d80-0522-11eb-87f0-e8017298e8d2.jpg" alt="Bt">
   
 ## <p align="center"> Know More ABout Us
   
