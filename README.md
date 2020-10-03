@@ -20,12 +20,12 @@
 <a href="https://www.instagram.com/noobhackers352"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
-<a href="https://github.com/noob-hackers/mrphish"><img title="T-Remix" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
-<a href="https://github.com/Bhaviktutorials/Termux-Keys"><img title="Termux-Keys" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=Termux-Keys&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Bhaviktutorials/Termux-Megapackage"><img title="Termux-Megapackage" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=Termux-Megapackage&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
+<a href="https://github.com/noob-hackers/ipdrone"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Bhaviktutorials"><img title="Bhaviktutorials" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaviktutorials&layout=compact"></a>
+<a href="https://github.com/Bhaviktutorials"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noob-hackers&layout=compact"></a>
 </p>
