@@ -13,3 +13,19 @@
 <a href="https://github.com/noob-hackers"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/noob-hackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
+
+<p align="center">
+<a href="https://t.me/noobhackerschat"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://www.noob-hackers.com/p/whats-app-groups-page-noob-hackers.html"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.instagram.com/noobhackers352"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+
+<p align="center">
+<a href="https://github.com/noob-hackers/grabcam"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="T-Remix" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=T-mrphish&theme=highcontrast"></a>
+<a href="https://github.com/Bhaviktutorials/Termux-Keys"><img title="Termux-Keys" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=Termux-Keys&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Bhaviktutorials/Termux-Megapackage"><img title="Termux-Megapackage" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=Termux-Megapackage&theme=highcontrast"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Bhaviktutorials"><img title="Bhaviktutorials" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaviktutorials&layout=compact"></a>
+</p>
