@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noob-hackers-bd293"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/noobhackerschat"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://www.noob-hackers.com/p/whats-app-groups-page-noob-hackers.html"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://www.instagram.com/noobhackers352"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
 <a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
