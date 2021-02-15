@@ -1,5 +1,5 @@
 ## Hey, Geek 😎
-<p align="center"><a href="https://user-images.githubusercontent.com/49580304/107906529-32efdf00-6f06-11eb-911e-214656f62865.gif" alt="Bt">
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/107906529-32efdf00-6f06-11eb-911e-214656f62865.gif" alt="Bt">
   
 ## <p align="center"> Know More About Us
   
