@@ -26,4 +26,3 @@
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
 </p>
-<p align="center"> Thanks To Bhavik Tutorials For This Awesome Interface
