@@ -1,12 +1,12 @@
 ## Hey, Geek 😎
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/107906529-32efdf00-6f06-11eb-911e-214656f62865.gif" alt="Bt">
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318135-f887d800-7fc1-11eb-8187-2afd9ba8b349.jpeg" alt="Bt">
   
 ## <p align="center"> Know More About Us
   
-<p align="center"><a href="https://github.com/noob-hackers"><img src="https://user-images.githubusercontent.com/49580304/94988627-6f0c3f80-0523-11eb-96d9-78ba048ed2c1.jpg" alt="Bt">
+<p align="center"><a href="https://user-images.githubusercontent.com/49580304/110318445-59afab80-7fc2-11eb-8d2b-61f7071e8c0d.jpg" alt="Bt">
 </p>
   
-<p align="center"><a href="https://github.com/noob-hackers"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
