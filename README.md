@@ -1,8 +1,6 @@
 ## Hey, Geek 😎
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
-  
-## <p align="center"> Know More About Us <p>
-  
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
+
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
   
 <p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
