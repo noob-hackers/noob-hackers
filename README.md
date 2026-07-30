@@ -9,7 +9,7 @@
 ### KNOW MORE ABOUT ME>>>>
 <p align="center">
   <a href="https://github.com/noob-hackers">
-    <img src="https://img.shields.io/badge/Noob-Hackers-00FF66?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FF66">
+    <img src="https://img.shields.io/static/v1?label=Noob&message=Hackers&color=00A846&labelColor=000000&logo=github&logoColor=00A846&style=for-the-badge">
   </a>
 </p>
 
@@ -31,6 +31,6 @@
 
 <p align="center">
   <a href="https://github.com/noob-hackers">
-    <img src="https://img.shields.io/badge/Noob-Hackers-00FF66?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FF66">
+    <img src="https://img.shields.io/static/v1?label=Noob&message=Hackers&color=00A846&labelColor=000000&logo=github&logoColor=00A846&style=for-the-badge">
   </a>
 </p>
