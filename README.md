@@ -7,7 +7,10 @@
 </p>
   
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center">
+  <a href="https://github.com/noob-hackers">
+    <img src="https://img.shields.io/badge/Noob-Hackers-00FF66?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FF66">
+  </a>
 </p>
 
 <p align="center">
@@ -27,5 +30,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+  <a href="https://github.com/noob-hackers">
+    <img src="https://img.shields.io/badge/Noob-Hackers-00FF66?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FF66">
+  </a>
 </p>
