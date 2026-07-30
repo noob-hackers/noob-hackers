@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://lnkuv.in/bio"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://lnkuv.in/bio"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://lnkuv.in/bio"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <a href="https://github.com/noob-hackers/grabcam"><img title="Grabcam" src="https://img.shields.io/github/stars/noob-hackers/grabcam?style=for-the-badge&label=grabcam&color=brightgreen"></a>
 <a href="https://github.com/noob-hackers/mrphish"><img title="Mrphish" src="https://img.shields.io/github/stars/noob-hackers/mrphish?style=for-the-badge&label=mrphish&color=brightgreen"></a>
